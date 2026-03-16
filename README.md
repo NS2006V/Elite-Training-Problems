@@ -1,44 +1,49 @@
-Elite Placement Training – Coding Practice
+💻 Elite Placement Training – Coding Practice Record
 
-This repository contains the coding practice records completed during the Elite Placement Training sessions conducted as part of campus placement preparation.
+This repository contains the coding practice documents completed during the Elite Placement Training sessions as part of campus placement preparation.
 
-The documents included in this repository represent the problem sets that were practiced during different training days.
-All files are organized slot-wise to clearly show participation, consistency, and performance tracking throughout the training period.
+The files are organized slot-wise to maintain a clear and structured record of participation and performance throughout the training program.
 
-Repository Structure
 
-The repository is divided into two main sections:
 
-Slot 1
-The Slot-1 folder includes the coding practice problem sets completed during the initial phase of placement training.
+📁 Slot-1 Training
 
-Each PDF file represents:
+This folder includes the problem sets practiced during the first phase of training.
 
-* Problems given during a specific training session
-* Solutions or attempts completed as part of the practice
-* Daily participation in coding exercises
+Each document represents:
 
-These documents help in maintaining a structured record of foundational coding practice.
+* Coding problems given during the training session
+* Practice work completed on that particular day
+* Record of participation in daily coding exercises
 
-Slot 2
+This section reflects the initial stage of continuous coding practice.
 
-The Slot-2 folder includes the coding practice problem sets completed during the second phase of placement training.
 
-Each PDF file represents:
 
-* Continued practice after Slot-1 sessions
-* Additional problem-solving exercises conducted on different training days
-* Performance tracking across multiple sessions
+📁 Slot-2 Training
 
-This section reflects ongoing involvement in placement-oriented coding practice.
+This folder includes the problem sets practiced during the second phase of training.
 
-Objective of Maintaining This Repository
+Each document represents:
 
-* To keep a documented record of coding practice completed during placement training
-* To demonstrate consistency and participation in training sessions
-* To provide reference material for performance review
-* To support preparation for technical interviews and coding assessments
+* Continued coding practice across training sessions
+* Additional problem-solving exercises
+* Performance tracking over multiple days
 
-Author:
+This section shows consistency and ongoing involvement in placement preparation activities.
+
+
+
+🎯 Repository Purpose
+
+* Maintain a structured record of coding practice
+* Track participation in placement training sessions
+* Provide reference for performance review
+* Support preparation for coding tests and technical interviews
+
+
+
+👩‍💻 Author
+
 Nekashri S
 B.Tech – Artificial Intelligence and Data Science
